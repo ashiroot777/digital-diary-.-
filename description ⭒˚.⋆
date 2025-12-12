@@ -1,0 +1,15 @@
+1) Feature ideas for the diary
+
+- Add / edit / delete entries (timestamped).
+
+- Tags and mood (so you can filter and analyze).
+
+- Search by text, date range, tag, or mood.
+
+- Simple analytics: entries per month, mood-distribution.
+
+- Export selected entries to a CSV or plain-text file.
+
+- Backup and restore (copy CSV).
+
+- Optional password protection (stores a salted hash in a small config file).
